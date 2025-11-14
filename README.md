@@ -15,6 +15,6 @@ To practice bioinformatics programming and understand the central dogma of molec
 - Uses standard codon tables for accurate translation
 
 ## How to use
-1. Run `decoder.py`  
+1. Run `Gene Sequence Decoder.py`  
 2. Input a DNA sequence  
 3. Get the corresponding mRNA and amino acid sequence
